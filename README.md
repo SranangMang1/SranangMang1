@@ -1,5 +1,12 @@
 ### Hi there, Rodney Wong here! 👋
 
+<table>
+    <tr>
+        <td><a target='_blank' href='https://www.linkedin.com/in/rodneywong16/'><img src='https://img.shields.io/badge/LinkedIn-Here-blue' alt='Rodney Wong LinkedIn' /></a></td>
+        
+    </tr>
+</table>
+
 ### Skills
 
 <p align="left">
