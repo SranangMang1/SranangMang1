@@ -4,15 +4,15 @@
 
 ### Hi there, Rodney Wong here! 👋
 
-<table>
-    <tr>
-   <td>
-        <a href="mailto:rodneywong16@gmail.com" target="_blank">
+## Connect with me  
+<div align="center">
+<a href="mailto:rodneywong16@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white style="margin-bottom: 5px;" />
 </a>
-       <a target='_blank' href='https://www.linkedin.com/in/rodneywong16/'><img src='https://img.shields.io/badge/LinkedIn-Here-blue' alt='Rodney Wong LinkedIn' /></a>
-   </td>
-</table>
+<a href="https://www.linkedin.com/in/rodneywong16/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div> 
 
 ### Skills
 
