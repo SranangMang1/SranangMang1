@@ -1,3 +1,7 @@
+<a href='""' target="_blank"><img src='https://github.com/SranangMang1/SranangMang1/blob/main/banner/GithubProfileBanner.png?raw=true' alt='Banner for Rodney Wong with a photo, decorated background and contact information, website url: ""' /></a>
+
+
+
 ### Hi there, Rodney Wong here! 👋
 
 <table>
