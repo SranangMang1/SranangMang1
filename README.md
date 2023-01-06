@@ -7,7 +7,7 @@ Full Stack Software Engineer | JavaScript | React | C#/.Net | SQL | Git
 
 Curious and ambitious software Engineer using skills from sales and customer service background to bolster team/customer relationships, maximizing those around me.
 
-Relentless hard-worker and problem solver, determined to continually garner knowledge and provide exceptional support to everchanging team needs.
+Determined to continually garner knowledge.
 
 I pride myself in clear, concise and respectful communication, remembering to first understand before trying to be understood.
 
