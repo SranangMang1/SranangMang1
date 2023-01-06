@@ -6,6 +6,9 @@
 
 <table>
     <tr>
+        <a href="mailto:rodneywong16@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white style="margin-bottom: 5px;" />
+</a>
         <td><a target='_blank' href='https://www.linkedin.com/in/rodneywong16/'><img src='https://img.shields.io/badge/LinkedIn-Here-blue' alt='Rodney Wong LinkedIn' /></a></td>
 </table>
 
