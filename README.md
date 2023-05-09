@@ -9,7 +9,7 @@ Curious and ambitious software Engineer using skills from sales and customer ser
 
 Determined to continually garner knowledge.
 
-I pride myself in clear, concise and respectful communication, remembering to first understand before trying to be understood.
+I pride myself in clear, concise and respectful communication, remembering to first understand before trying to be understood!
 
 ## Connect with me  
 <div align="center">
